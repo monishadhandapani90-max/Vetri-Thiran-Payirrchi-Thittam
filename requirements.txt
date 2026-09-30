@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+google-genai
+transformers
+torch
+pydantic
+python-dotenv
+jinja2
